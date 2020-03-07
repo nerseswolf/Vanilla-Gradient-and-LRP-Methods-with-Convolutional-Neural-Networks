@@ -1,6 +1,6 @@
 # Training a Convolutional Neural Network and Explaining its Predictions via Vanilla Gradient and LRP Methods (advanced)
 
-The Net is trained on the CIFAR-10 dataset and explained its predictions in terms of input variables using Gradient X Input and LRP.
+The Network is trained on the CIFAR-10 dataset and explained its predictions in terms of input variables using Gradient X Input and LRP.
 
 ## Part 1: Training the Convolutional Network
 
