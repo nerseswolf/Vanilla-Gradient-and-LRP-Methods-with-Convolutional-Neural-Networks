@@ -1,7 +1,6 @@
-# Explaining-Predictions-of-Neural-Nets
-Training a Convolutional Neural Network and Explaining its Predictions via Vanilla Gradient and LRP Methods (advanced)
+# Training a Convolutional Neural Network and Explaining its Predictions via Vanilla Gradient and LRP Methods (advanced)
 
-The Net is trained on the CIFAR-10 dataset and explained its predictions in terms of input variables using Gradient$\,\times\,$Input, and LRP.
+The Net is trained on the CIFAR-10 dataset and explained its predictions in terms of input variables using Vanilla Gradient and LRP.
 
 ## Part 1: Training the Convolutional Network
 
